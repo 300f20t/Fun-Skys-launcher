@@ -1,0 +1,76 @@
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.exe
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.deps.json
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.runtimeconfig.json
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.pdb
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.cache
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.lref
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.g.resources
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfo.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\refint\FS Launcher.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.pdb
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.genruntimeconfig.cache
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\ref\FS Launcher.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\App.baml
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CopyComplete
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.g.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.g.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.baml
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.baml
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\CmlLib.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\SevenZip.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\Images\Background.png
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_Content.g.cs
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\UserData\Login.txt
+C:\Users\maksi\source\repos\FS Launcher\FS Launcher\bin\Debug\net7.0-windows\Settings\Memory.txt
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.exe
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Settings\Memory.txt
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\UserData\Login.txt
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Images\Background.png
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.deps.json
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.runtimeconfig.json
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.pdb
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\CmlLib.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\SevenZip.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.AssemblyReference.cache
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.g.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.g.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\App.g.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_Content.g.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.cache
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.lref
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\App.baml
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.baml
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.baml
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.g.resources
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfoInputs.cache
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfo.cs
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CoreCompileInputs.cache
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CopyComplete
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\refint\FS Launcher.dll
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.pdb
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.genruntimeconfig.cache
+D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\ref\FS Launcher.dll

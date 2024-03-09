@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>FS_Launcher</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Arrow.png" />
+    <None Remove="Images\Background.png" />
+    <None Remove="Images\LauncherLogoV0.3.png" />
+    <None Remove="Settings\Memory.txt" />
+    <None Remove="UserData\Login.txt" />
+    <None Remove="UserData\Password.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CmlLib.Core" Version="3.3.9" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.10.0-ci317" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Arrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Settings\Memory.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="UserData\Login.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\LauncherLogoV0.3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="UserData\Password.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Images\Background.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="mods\" />
+  </ItemGroup>
+
+</Project>
