@@ -80,7 +80,7 @@
         <TextBlock Text="Настройки" FontSize="24" FontWeight="Bold" Margin="10"/>
 
         <!-- Секция настроек -->
-        <Border Grid.Row="1" Margin="10" CornerRadius="10" Padding="20" Background="#263238">
+        <Border Opacity="0.9" Grid.Row="1" Margin="10" CornerRadius="10" Padding="20" Background="#263238">
             <StackPanel>
                 <!-- Настройка оперативной памяти -->
                 <StackPanel Margin="0 0 0 20">
