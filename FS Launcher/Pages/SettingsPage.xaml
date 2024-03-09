@@ -67,10 +67,7 @@
 
     <Grid>
         <Grid.Background>
-            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-                <GradientStop Color="#0D1C25" Offset="0"/>
-                <GradientStop Color="#040B12" Offset="1"/>
-            </LinearGradientBrush>
+            <ImageBrush ImageSource="/Images/Background.png"/>
         </Grid.Background>
 
         <Grid.RowDefinitions>
