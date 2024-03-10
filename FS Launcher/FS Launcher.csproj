@@ -9,6 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="mods\**" />
+    <EmbeddedResource Remove="mods\**" />
+    <None Remove="mods\**" />
+    <Page Remove="mods\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Images\Arrow.png" />
     <None Remove="Images\Background.png" />
     <None Remove="Images\LauncherLogoV0.3.png" />
@@ -18,8 +25,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CmlLib.Core" Version="3.3.9" />
-    <PackageReference Include="MaterialDesignThemes" Version="4.10.0-ci317" />
+    <PackageReference Include="CmlLib.Core" Version="3.3.10" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -41,10 +48,6 @@
     <Content Include="Images\Background.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="mods\" />
   </ItemGroup>
 
 </Project>
