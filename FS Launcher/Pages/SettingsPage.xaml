@@ -84,8 +84,8 @@
             <StackPanel>
                 <!-- Настройка оперативной памяти -->
                 <StackPanel Margin="0 0 0 20">
-                    <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White"/>
-                    <TextBox x:Name="Memory" Text="2048" MaxLength="7" Margin="0 5"/>
+                    <TextBlock Text="Новое поле" FontSize="16" FontWeight="Bold" Foreground="White"/>
+                    <TextBox x:Name="NewTextBox" Text="Значение по умолчанию" MaxLength="50" Margin="0 5"/>
                 </StackPanel>
                 <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource ButtonStyle}" Width="700" Height="30"/>
             </StackPanel>

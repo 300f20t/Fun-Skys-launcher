@@ -30,7 +30,7 @@
             <Border.Effect>
                 <DropShadowEffect BlurRadius="3" Color="#FFFAEBD7" ShadowDepth="5"/>
             </Border.Effect>
-            <Button Name="But1" Click="But1_Click" Content="Настройки" Height="40" Style="{DynamicResource MaterialDesignPaperSecondaryLightButton}"/>
+            <Button Name="But1" Click="But1_Click" Content="Настройки" Height="40" Style="{DynamicResource MaterialDesignRaisedLightButton}"/>
         </Border>
         <Border  CornerRadius="20" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" Padding="20" VerticalAlignment="Center" Margin="10,0,10,0" Background="#FFF0F8FF">
             <Border.Effect>
