@@ -92,7 +92,7 @@
         </Border>
 
         <!-- Нижняя панель -->
-        <Border Grid.Row="2" Background="#1E88E5" Padding="10">
+        <Border Grid.Row="2" Opacity="0.9" Margin="10" CornerRadius="10" Background="#263238" Padding="10">
             <StackPanel HorizontalAlignment="Center">
                 <Button Content="Выход" Click="Exit_Click" Style="{StaticResource ButtonStyle}" Width="700" Height="30"/>
             </StackPanel>
