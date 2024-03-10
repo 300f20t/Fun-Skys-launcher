@@ -80,16 +80,20 @@
         <TextBlock Text="Настройки" FontSize="24" FontWeight="Bold" Margin="10" Foreground="White"/>
 
         <!-- Секция настроек -->
-        <Border Opacity="0.9" Grid.Row="1" Margin="10" CornerRadius="10" Padding="20" Background="#263238">
-            <StackPanel>
-                <!-- Настройка оперативной памяти -->
-                <StackPanel Margin="0 0 0 20">
-                    <TextBlock Text="Новое поле" FontSize="16" FontWeight="Bold" Foreground="White"/>
-                    <TextBox x:Name="NewTextBox" Text="Значение по умолчанию" MaxLength="50" Margin="0 5"/>
-                </StackPanel>
-                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource ButtonStyle}" Width="700" Height="30"/>
+<Border Opacity="0.9" Grid.Row="1" Margin="10" CornerRadius="10" Padding="20" Background="#263238">
+    <Border.Effect>
+        <DropShadowEffect Color="#FF000000" Opacity="0.5" ShadowDepth="5" BlurRadius="5"/>
+    </Border.Effect>
+    <StackPanel>
+<Border CornerRadius="10" BorderBrush="White" BorderThickness="2">
+    <StackPanel Margin="0 0 0 20">
+        <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White"/>
+        <TextBox x:Name="Memory" Text="2048" MaxLength="7" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="14" Cursor="IBeam" Foreground="White" Height="53" RenderTransformOrigin="0.5,0.5" Width="700"/>
+    </StackPanel>
+</Border>
+                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource MaterialDesignRaisedButton}" Width="700" Height="30" Margin="0,10,0,0"/>
             </StackPanel>
-        </Border>
+</Border>
 
         <!-- Нижняя панель -->
         <Border Grid.Row="2" Opacity="0.9" Margin="10" CornerRadius="10" Background="#263238" Padding="10">
