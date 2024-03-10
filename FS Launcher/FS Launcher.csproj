@@ -26,7 +26,7 @@
 
   <ItemGroup>
     <PackageReference Include="CmlLib.Core" Version="3.3.10" />
-    <PackageReference Include="MaterialDesignThemes" Version="5.0.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.1.0" />
   </ItemGroup>
 
   <ItemGroup>

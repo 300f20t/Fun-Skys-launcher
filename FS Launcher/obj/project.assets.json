@@ -29,54 +29,37 @@
           }
         }
       },
-      "MaterialDesignColors/3.0.0": {
+      "MaterialDesignColors/2.0.1": {
         "type": "package",
         "compile": {
-          "lib/net7.0/MaterialDesignColors.dll": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net7.0/MaterialDesignColors.dll": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
             "related": ".pdb"
           }
         }
       },
-      "MaterialDesignThemes/5.0.0": {
+      "MaterialDesignThemes/4.1.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "3.0.0",
-          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+          "MaterialDesignColors": "2.0.1"
         },
         "compile": {
-          "lib/net7.0/MaterialDesignThemes.Wpf.dll": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net7.0/MaterialDesignThemes.Wpf.dll": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
           "build/MaterialDesignThemes.targets": {}
         }
-      },
-      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -138,28 +121,26 @@
         "lzma-sdk.nuspec"
       ]
     },
-    "MaterialDesignColors/3.0.0": {
-      "sha512": "yIAqOd9RYY7JUnspmBaL/PK+NEbRFFMCS43AT1YWM5MBkGAU5rUYh9q11zzEfqFcz2jDO6Zaf9W+m4Y1dGhatQ==",
+    "MaterialDesignColors/2.0.1": {
+      "sha512": "Azl8nN23SD6QPE0PdsfpKiIqWTvH7rzXwgXPiFSEt91NFOrwB5cx3iq/sbINWMZunhXJ32+jVUHiV03B8eJbZw==",
       "type": "package",
-      "path": "materialdesigncolors/3.0.0",
+      "path": "materialdesigncolors/2.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "images/MaterialDesignColors.Icon.png",
-        "lib/net462/MaterialDesignColors.dll",
-        "lib/net462/MaterialDesignColors.pdb",
-        "lib/net6.0/MaterialDesignColors.dll",
-        "lib/net6.0/MaterialDesignColors.pdb",
-        "lib/net7.0/MaterialDesignColors.dll",
-        "lib/net7.0/MaterialDesignColors.pdb",
-        "materialdesigncolors.3.0.0.nupkg.sha512",
+        "lib/net452/MaterialDesignColors.dll",
+        "lib/net452/MaterialDesignColors.pdb",
+        "lib/netcoreapp3.1/MaterialDesignColors.dll",
+        "lib/netcoreapp3.1/MaterialDesignColors.pdb",
+        "materialdesigncolors.2.0.1.nupkg.sha512",
         "materialdesigncolors.nuspec"
       ]
     },
-    "MaterialDesignThemes/5.0.0": {
-      "sha512": "Az/2+YP+AdtyNceaU42cFo7Fl7KBrFkMa56uvesR363kZyOrASb0OnMvi0Ou4j1x0zwGa19AaK/vspDUBNDlBQ==",
+    "MaterialDesignThemes/4.1.0": {
+      "sha512": "WqrO9AbtdE4pLPtDk/C5BZRnkgWFwVGyUHWj7tRJrgnKl089DEobVXBCLeqp2mkgBeFHj4Xe3AfWyhmlnO6AZA==",
       "type": "package",
-      "path": "materialdesignthemes/5.0.0",
+      "path": "materialdesignthemes/4.1.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -184,43 +165,15 @@
         "build/Resources/Roboto/RobotoCondensed-LightItalic.ttf",
         "build/Resources/Roboto/RobotoCondensed-Regular.ttf",
         "images/MaterialDesignThemes.Icon.png",
-        "lib/net462/MaterialDesignThemes.Wpf.dll",
-        "lib/net462/MaterialDesignThemes.Wpf.pdb",
-        "lib/net462/MaterialDesignThemes.Wpf.xml",
-        "lib/net6.0/MaterialDesignThemes.Wpf.dll",
-        "lib/net6.0/MaterialDesignThemes.Wpf.pdb",
-        "lib/net6.0/MaterialDesignThemes.Wpf.xml",
-        "lib/net7.0/MaterialDesignThemes.Wpf.dll",
-        "lib/net7.0/MaterialDesignThemes.Wpf.pdb",
-        "lib/net7.0/MaterialDesignThemes.Wpf.xml",
-        "materialdesignthemes.5.0.0.nupkg.sha512",
+        "lib/net452/MaterialDesignThemes.Wpf.dll",
+        "lib/net452/MaterialDesignThemes.Wpf.pdb",
+        "lib/net452/MaterialDesignThemes.Wpf.xml",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.pdb",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.xml",
+        "materialdesignthemes.4.1.0.nupkg.sha512",
         "materialdesignthemes.nuspec",
         "tools/VisualStudioToolsManifest.xml"
-      ]
-    },
-    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
-      "sha512": "8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
-      "type": "package",
-      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/Design/Microsoft.Xaml.Behaviors.Design.dll",
-        "lib/net45/Microsoft.Xaml.Behaviors.dll",
-        "lib/net45/Microsoft.Xaml.Behaviors.pdb",
-        "lib/net45/Microsoft.Xaml.Behaviors.xml",
-        "lib/net5.0-windows7.0/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
-        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll",
-        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.pdb",
-        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.xml",
-        "lib/netcoreapp3.1/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
-        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll",
-        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.pdb",
-        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.xml",
-        "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
-        "microsoft.xaml.behaviors.wpf.nuspec",
-        "tools/Install.ps1"
       ]
     },
     "Newtonsoft.Json/13.0.1": {
@@ -275,7 +228,7 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "CmlLib.Core >= 3.3.10",
-      "MaterialDesignThemes >= 5.0.0"
+      "MaterialDesignThemes >= 4.1.0"
     ]
   },
   "packageFolders": {
@@ -328,7 +281,7 @@
           },
           "MaterialDesignThemes": {
             "target": "Package",
-            "version": "[5.0.0, )"
+            "version": "[4.1.0, )"
           }
         },
         "imports": [

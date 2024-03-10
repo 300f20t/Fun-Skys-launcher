@@ -48,7 +48,6 @@ D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\b
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\SevenZip.dll
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignColors.dll
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
-D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.AssemblyReference.cache
