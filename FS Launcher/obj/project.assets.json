@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0-windows7.0": {
-      "CmlLib.Core/3.3.9": {
+      "CmlLib.Core/3.3.10": {
         "type": "package",
         "dependencies": {
           "LZMA-SDK": "19.0.0",
@@ -29,7 +29,7 @@
           }
         }
       },
-      "MaterialDesignColors/2.1.5-ci317": {
+      "MaterialDesignColors/3.0.0": {
         "type": "package",
         "compile": {
           "lib/net7.0/MaterialDesignColors.dll": {
@@ -42,10 +42,10 @@
           }
         }
       },
-      "MaterialDesignThemes/4.10.0-ci317": {
+      "MaterialDesignThemes/5.0.0": {
         "type": "package",
         "dependencies": {
-          "MaterialDesignColors": "2.1.5-ci317",
+          "MaterialDesignColors": "3.0.0",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
         },
         "compile": {
@@ -107,15 +107,15 @@
     }
   },
   "libraries": {
-    "CmlLib.Core/3.3.9": {
-      "sha512": "ux+/kHjJ4lwkKRmMyQsigvs4DCEwIGeGC02maQmphhr3EXqIw6XuT1Gtjtt5IQeKHb/57YpYu/3v5hQjaMF5ZA==",
+    "CmlLib.Core/3.3.10": {
+      "sha512": "bAvIRFbUswP2P5sh6ncVdZDadwwapy1ejxwKzTSqDusxmheJKQyQ/yi1+STpawP8cWM7ISCRze4V7d5YbrC13A==",
       "type": "package",
-      "path": "cmllib.core/3.3.9",
+      "path": "cmllib.core/3.3.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "cmllib.core.3.3.9.nupkg.sha512",
+        "cmllib.core.3.3.10.nupkg.sha512",
         "cmllib.core.nuspec",
         "icon.png",
         "lib/netstandard2.0/CmlLib.dll"
@@ -138,10 +138,10 @@
         "lzma-sdk.nuspec"
       ]
     },
-    "MaterialDesignColors/2.1.5-ci317": {
-      "sha512": "QynP3i9pmieEhCofId5gRwkPBgFlrt/KXIZaBCSCiri1/M3RFbHnn0QzuLssfMJTdZZgVZHr3OOF2k46lYd0Kg==",
+    "MaterialDesignColors/3.0.0": {
+      "sha512": "yIAqOd9RYY7JUnspmBaL/PK+NEbRFFMCS43AT1YWM5MBkGAU5rUYh9q11zzEfqFcz2jDO6Zaf9W+m4Y1dGhatQ==",
       "type": "package",
-      "path": "materialdesigncolors/2.1.5-ci317",
+      "path": "materialdesigncolors/3.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -152,14 +152,14 @@
         "lib/net6.0/MaterialDesignColors.pdb",
         "lib/net7.0/MaterialDesignColors.dll",
         "lib/net7.0/MaterialDesignColors.pdb",
-        "materialdesigncolors.2.1.5-ci317.nupkg.sha512",
+        "materialdesigncolors.3.0.0.nupkg.sha512",
         "materialdesigncolors.nuspec"
       ]
     },
-    "MaterialDesignThemes/4.10.0-ci317": {
-      "sha512": "I75DhcEu+HO+UwfsBA5sJ+PpTfx0a34nX8yNkFGVxFCGgcWaIj26Qg+HN6nEhxXC/3V3Smt5nQDtfKQBqTjeuA==",
+    "MaterialDesignThemes/5.0.0": {
+      "sha512": "Az/2+YP+AdtyNceaU42cFo7Fl7KBrFkMa56uvesR363kZyOrASb0OnMvi0Ou4j1x0zwGa19AaK/vspDUBNDlBQ==",
       "type": "package",
-      "path": "materialdesignthemes/4.10.0-ci317",
+      "path": "materialdesignthemes/5.0.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -193,7 +193,7 @@
         "lib/net7.0/MaterialDesignThemes.Wpf.dll",
         "lib/net7.0/MaterialDesignThemes.Wpf.pdb",
         "lib/net7.0/MaterialDesignThemes.Wpf.xml",
-        "materialdesignthemes.4.10.0-ci317.nupkg.sha512",
+        "materialdesignthemes.5.0.0.nupkg.sha512",
         "materialdesignthemes.nuspec",
         "tools/VisualStudioToolsManifest.xml"
       ]
@@ -274,8 +274,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "CmlLib.Core >= 3.3.9",
-      "MaterialDesignThemes >= 4.10.0-ci317"
+      "CmlLib.Core >= 3.3.10",
+      "MaterialDesignThemes >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -324,11 +324,11 @@
         "dependencies": {
           "CmlLib.Core": {
             "target": "Package",
-            "version": "[3.3.9, )"
+            "version": "[3.3.10, )"
           },
           "MaterialDesignThemes": {
             "target": "Package",
-            "version": "[4.10.0-ci317, )"
+            "version": "[5.0.0, )"
           }
         },
         "imports": [

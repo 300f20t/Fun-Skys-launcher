@@ -46,11 +46,11 @@
           "dependencies": {
             "CmlLib.Core": {
               "target": "Package",
-              "version": "[3.3.9, )"
+              "version": "[3.3.10, )"
             },
             "MaterialDesignThemes": {
               "target": "Package",
-              "version": "[4.10.0-ci317, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
