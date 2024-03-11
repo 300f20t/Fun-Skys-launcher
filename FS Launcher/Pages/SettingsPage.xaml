@@ -85,13 +85,13 @@
         <DropShadowEffect Color="#FF000000" Opacity="0.5" ShadowDepth="5" BlurRadius="5"/>
     </Border.Effect>
     <StackPanel>
-<Border CornerRadius="10" BorderBrush="White" BorderThickness="2">
+<Border CornerRadius="10" BorderBrush="White" BorderThickness="2" Height="106">
     <StackPanel Margin="0 0 0 20">
-        <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White"/>
-        <TextBox x:Name="Memory" Text="2048" MaxLength="7" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="14" Cursor="IBeam" Foreground="White" Height="53" RenderTransformOrigin="0.5,0.5" Width="700"/>
+        <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White" Height="25" Width="700" Margin="0,10,0,0"/>
+        <TextBox x:Name="Memory" Text="2048" MaxLength="7" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="14" Cursor="IBeam" Foreground="White" Height="41" RenderTransformOrigin="0.5,0.5" Width="700"/>
     </StackPanel>
 </Border>
-                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource MaterialDesignRaisedButton}" Width="700" Height="30" Margin="0,10,0,0"/>
+                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource MaterialDesignRaisedButton}" Width="700" Height="30" Margin="0,30,0,0"/>
             </StackPanel>
 </Border>
 
