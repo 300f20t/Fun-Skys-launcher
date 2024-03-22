@@ -238,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Программирование\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
+      "projectUniqueName": "D:\\Programming\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
       "projectName": "FS Launcher",
-      "projectPath": "D:\\Программирование\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
+      "projectPath": "D:\\Programming\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
       "packagesPath": "C:\\Users\\maksi\\.nuget\\packages\\",
-      "outputPath": "D:\\Программирование\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\obj\\",
+      "outputPath": "D:\\Programming\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

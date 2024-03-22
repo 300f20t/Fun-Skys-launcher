@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSgFdCEZtwf5+eaennR5pFDEwthvwcDu7xJC0kmsn4d00gjbP91rLjA/XJEbPZ8akJzZwqDi8pIjfteSuenjwg==",
+  "dgSpecHash": "CPtm0vr8dp6g8yC6hrWILdk87/z9DyJ8X1BiJIExWk70rXGRA3lF9daqArKWIUPxw6BM3N5FwzUoKlsJxZXNLg==",
   "success": true,
-  "projectFilePath": "D:\\Программирование\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
+  "projectFilePath": "D:\\Programming\\Git Projects\\Fun-Skys-launcher\\FS Launcher\\FS Launcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maksi\\.nuget\\packages\\cmllib.core\\3.3.10\\cmllib.core.3.3.10.nupkg.sha512",
     "C:\\Users\\maksi\\.nuget\\packages\\lzma-sdk\\19.0.0\\lzma-sdk.19.0.0.nupkg.sha512",

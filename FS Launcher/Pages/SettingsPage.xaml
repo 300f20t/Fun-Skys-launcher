@@ -8,8 +8,9 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="SettingsPage">
 
+    <!-- Объединение стилей -->
     <Page.Resources>
-        <!-- Стиль для кнопок -->
+        <!-- Общий стиль для всех кнопок -->
         <Style x:Key="ButtonStyle" TargetType="Button">
             <Setter Property="Background" Value="#4CAF50"/>
             <Setter Property="Foreground" Value="White"/>
@@ -34,7 +35,6 @@
                 <Trigger Property="IsMouseOver" Value="True">
                     <Setter Property="Background" Value="#388E3C"/>
                 </Trigger>
-                <!-- Дополнительный триггер для тёмной темы -->
                 <Trigger Property="IsEnabled" Value="True">
                     <Setter Property="Foreground" Value="White"/>
                 </Trigger>
@@ -42,7 +42,7 @@
         </Style>
 
         <!-- Стиль для текстовых полей -->
-        <Style TargetType="TextBox">
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
             <Setter Property="Background" Value="#455A64"/>
             <Setter Property="Foreground" Value="White"/>
             <Setter Property="FontSize" Value="14"/>
@@ -65,41 +65,32 @@
         </Style>
     </Page.Resources>
 
+    <!-- Содержимое страницы -->
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="/Images/Background.png"/>
-        </Grid.Background>
-
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="Auto"/>
-        </Grid.RowDefinitions>
-
         <!-- Заголовок страницы -->
         <TextBlock Text="Настройки" FontSize="24" FontWeight="Bold" Margin="10" Foreground="White"/>
 
         <!-- Секция настроек -->
-<Border Opacity="0.9" Grid.Row="1" Margin="10" CornerRadius="10" Padding="20" Background="#263238">
-    <Border.Effect>
-        <DropShadowEffect Color="#FF000000" Opacity="0.5" ShadowDepth="5" BlurRadius="5"/>
-    </Border.Effect>
-    <StackPanel>
-<Border CornerRadius="10" BorderBrush="White" BorderThickness="2" Height="106">
-    <StackPanel Margin="0 0 0 20">
-        <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White" Height="25" Width="700" Margin="0,10,0,0"/>
-        <TextBox x:Name="Memory" Text="2048" MaxLength="7" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="14" Cursor="IBeam" Foreground="White" Height="41" RenderTransformOrigin="0.5,0.5" Width="700"/>
-    </StackPanel>
-</Border>
-                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource MaterialDesignRaisedButton}" Width="700" Height="30" Margin="0,30,0,0"/>
+        <Border Margin="10" CornerRadius="10" Padding="20" Background="#263238">
+            <Border.Effect>
+                <DropShadowEffect Color="#FF000000" Opacity="0.5" ShadowDepth="5" BlurRadius="5"/>
+            </Border.Effect>
+            <StackPanel>
+                <Border CornerRadius="10" BorderBrush="White" BorderThickness="2" Height="106" Margin="0 0 0 20">
+                    <StackPanel Margin="0">
+                        <TextBlock Text="Оперативная память (МБ)" FontSize="16" FontWeight="Bold" Foreground="White" Margin="0,10,0,0"/>
+                        <TextBox x:Name="Memory" Text="2048" MaxLength="7" Style="{StaticResource TextBoxStyle}" FontSize="14" Cursor="IBeam" Foreground="White" Margin="0" Height="41"/>
+                    </StackPanel>
+                </Border>
+                <Button Content="Сохранить" Click="Save_Click" Style="{StaticResource ButtonStyle}" Width="700" Height="30"/>
             </StackPanel>
-</Border>
+        </Border>
 
         <!-- Нижняя панель -->
-        <Border Grid.Row="2" Opacity="0.9" Margin="10" CornerRadius="10" Background="#263238" Padding="10">
+        <Border Margin="10" CornerRadius="10" Background="#263238" Padding="10">
             <StackPanel HorizontalAlignment="Center">
                 <Button Content="Выход" Click="Exit_Click" Style="{StaticResource ButtonStyle}" Width="700" Height="30"/>
             </StackPanel>
         </Border>
     </Grid>
-</Page>
+    </Page>

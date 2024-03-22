@@ -73,3 +73,40 @@ D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\o
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.pdb
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.genruntimeconfig.cache
 D:\Программирование\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\ref\FS Launcher.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.exe
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Settings\Memory.txt
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\UserData\Login.txt
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Images\Background.png
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.deps.json
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.runtimeconfig.json
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\FS Launcher.pdb
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\CmlLib.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\SevenZip.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.AssemblyReference.cache
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.g.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.g.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\App.g.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_Content.g.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.cache
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher_MarkupCompile.lref
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\App.baml
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\HomePage.baml
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\Pages\SettingsPage.baml
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.g.resources
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfoInputs.cache
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.AssemblyInfo.cs
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CoreCompileInputs.cache
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.csproj.CopyComplete
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\refint\FS Launcher.dll
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.pdb
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\FS Launcher.genruntimeconfig.cache
+D:\Programming\Git Projects\Fun-Skys-launcher\FS Launcher\obj\Debug\net7.0-windows\ref\FS Launcher.dll
